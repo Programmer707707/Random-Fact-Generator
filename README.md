@@ -21,14 +21,18 @@ UI of the project
 <img width="645" alt="Screenshot 2024-10-27 at 15 18 28" src="https://github.com/user-attachments/assets/c69393ad-cbfe-477b-bdad-ab7e1bc79221">
 
 
-- Outputs with different inputs and related to different categories:
+## Outputs with different inputs and related to different categories:
 
+- Trivia
 <img width="645" alt="Screenshot 2024-10-27 at 15 19 01" src="https://github.com/user-attachments/assets/26e252bc-fd86-43f8-a2fa-a6d34d76bcab">
 
+- Year
 <img width="636" alt="Screenshot 2024-10-27 at 15 19 20" src="https://github.com/user-attachments/assets/385f9448-e6bc-47ed-9974-f0fbbb1d8c43">
 
+- Date
 <img width="640" alt="Screenshot 2024-10-27 at 15 20 00" src="https://github.com/user-attachments/assets/6e43395e-922b-4b55-821b-4c6f9a8e3268">
 
+- Math
 <img width="633" alt="Screenshot 2024-10-27 at 15 20 21" src="https://github.com/user-attachments/assets/9c97b335-1aa2-4218-9535-398ff1109908">
 
 
