@@ -21,8 +21,6 @@ UI of the project
 <img width="645" alt="Screenshot 2024-10-27 at 15 18 28" src="https://github.com/user-attachments/assets/c69393ad-cbfe-477b-bdad-ab7e1bc79221">
 
 
-## Outputs with different inputs and related to different categories:
-
 ## Trivia
 <img width="645" alt="Screenshot 2024-10-27 at 15 19 01" src="https://github.com/user-attachments/assets/26e252bc-fd86-43f8-a2fa-a6d34d76bcab">
 
